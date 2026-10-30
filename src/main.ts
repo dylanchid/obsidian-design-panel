@@ -973,7 +973,7 @@ export default class DesignPanelPlugin extends Plugin {
     });
 
     this.addCommand({
-      id: 'open-design-panel',
+      id: 'open-panel',
       name: 'Open Design Panel',
       callback: () => {
         void this.activateView();
