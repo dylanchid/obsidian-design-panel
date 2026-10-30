@@ -1,7 +1,7 @@
 {
   "name": "design-panel",
   "version": "1.1.0",
-  "description": "Live design sidebar — type, scale, color, and layout with real-time preview",
+  "description": "Live design sidebar \u2014 type, scale, color, and layout with real-time preview",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
