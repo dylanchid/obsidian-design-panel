@@ -3,7 +3,7 @@
   "name": "Design Panel",
   "version": "1.1.0",
   "minAppVersion": "1.0.0",
-  "description": "Live design sidebar — type, scale, color, and layout with real-time preview",
+  "description": "Adjust typography, scale, color, and layout with a live sidebar preview.",
   "author": "dylanchid",
   "isDesktopOnly": false
 }
